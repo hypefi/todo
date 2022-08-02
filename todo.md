@@ -3,13 +3,16 @@
 ## [Work]:
 
 -> Now :
-- Finish chofane and ship it (details in chofane todo ) 
+URGENT /!\
+- Finish chofane and ship it (details in chofane todo ) as fast and soon as you can 
 - make twitter account and email for chofane
 - Make landing page chofane
 
 -> After Now and urgent:
 - Finish PaidinCRypto and launch
 - make twitter account and email for paidincrypto
+- update personal page, with all projects somthing neat
+- update github README
 
 -> Long Term:
 - CGM Blog 
